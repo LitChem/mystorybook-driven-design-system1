@@ -1,3 +1,7 @@
+This project is for learning storybook using the docs at:
+https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/
+and the links following.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
